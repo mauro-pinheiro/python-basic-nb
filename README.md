@@ -1,2 +1,2 @@
 # Atividade 1 - Python Básico
-Simples atividade no jupter notebook usando python básico
+Simples atividade no jupyter notebook usando python básico
